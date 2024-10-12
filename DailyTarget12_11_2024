@@ -1,0 +1,32 @@
+<!-- Daily Target 12-10-2024 -->
+
+<!-- 100%  -->
+
+<a></a><div></div>
+<style>
+  * {
+    background: #3F4869;
+    align-items: center;
+    margin: 0;
+  }
+  a {
+    background: #61A74E;
+    clip-path: polygon(0% 0%, 0% 50%, 50% 50%, 50% 100%, 100% 100%, 100% 0%);
+    border-radius: 50%;
+    position: absolute;
+    top:35;
+    left: 130;
+    height: 140;
+    width: 140;
+  }
+div {
+    position: absolute;
+    background: #61A74E;
+    border-radius: 50%;
+    top: 125;
+    left: 130;
+    height: 140;
+    width: 140;
+}
+  
+</style>
