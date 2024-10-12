@@ -60,4 +60,4 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 # Battle No. 32 - Animation
 ![image](https://github.com/user-attachments/assets/07099eb5-a495-4b78-82c2-cd3daf2d8d75)
-- [#204 Deadpool](./Monthly%20Targets/Battle-01-PilotBattle/204-Deadpool.html) | [=> link](https://cssbattle.dev/play/204)
+- [#204 Deadpool](./Monthly%20Targets/Battle-32-Animation/204-Deadpool.html) | [=> link](https://cssbattle.dev/play/204)
