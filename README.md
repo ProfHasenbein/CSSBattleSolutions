@@ -1,4 +1,13 @@
-# CSSBattleSolutions
+```
+    __ ______________   ____ ______ ______ _       ___       _____ ___  _     __ __ ______ ____ ___  ____   _____
+   /  / ___/ ___|    \ /    |      |      | |     /  _]     / ___//   \| |   |  T  |      l    /   \|    \ / ___/
+  /  (   \(   \_|  o  Y  o  |      |      | |    /  [_     (   \_Y     | |   |  |  |      ||  Y     |  _  (   \_ 
+ /  / \__  \__  |     |     l_j  l_|_j  l_| l___Y    _]     \__  |  O  | l___|  |  l_j  l_j|  |  O  |  |  |\__  |
+/   \_/  \ /  \ |  O  |  _  | |  |   |  | |     |   [_      /  \ |     |     |  |  | |  |  |  |     |  |  |/  \ |
+\     \    \    |     |  |  | |  |   |  | |     |     T     \    l     |     l     | |  |  j  l     |  |  |\    |
+ \____j\___j\___l_____l__|__j l__j   l__j l_____l_____j      \___j\___/l_____j\__,_j l__j |____\___/l__j__j \___j
+                                                                                                                                                                                                                                               
+```
 
 ## Introduction
 [CSS Battle](https://cssbattle.dev/) is an online game where developers compete to write the shortest possible CSS code to replicate given target designs. It's a fun way to improve your CSS skills
