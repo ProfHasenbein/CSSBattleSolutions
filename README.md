@@ -36,6 +36,8 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 ![image](https://github.com/user-attachments/assets/15b8c9f0-bef3-435b-bb26-b6e92c1507fa)
 - [#1 Simply Square](./Monthly%20Targets/Battle-01-PilotBattle/01-SimplySquare.html) | [=> link](https://cssbattle.dev/play/1)
 - [#2 Carrom](./Monthly%20Targets/Battle-01-PilotBattle/02-Carrom.html) | [=> link](https://cssbattle.dev/play/2)
+- [#3 Push Button](./Monthly%20Targets/Battle-01-PilotBattle/03-PushButton.html) | [=> link](https://cssbattle.dev/play/3)
+- [#4 Ups n Downs](./Monthly%20Targets/Battle-01-PilotBattle/04-UpsAndDowns.html) | [=> link](https://cssbattle.dev/play/4)
 
 # Battle No. 2 - Visibility
 ![image](https://github.com/user-attachments/assets/5c7a0574-25b7-477c-b393-1e61327b8850)
