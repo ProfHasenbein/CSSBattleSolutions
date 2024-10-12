@@ -3,6 +3,7 @@
 ║  ╚═╗╚═╗├┴┐├─┤ │  │ │  ├┤   ╚═╗│ ││  │ │ │ ││ ││││└─┐
 ╚═╝╚═╝╚═╝└─┘┴ ┴ ┴  ┴ ┴─┘└─┘  ╚═╝└─┘┴─┘└─┘ ┴ ┴└─┘┘└┘└─┘
 ```
+---
 
 ## Introduction
 [CSS Battle](https://cssbattle.dev/) is an online game where developers compete to write the shortest possible CSS code to replicate given target designs. It's a fun way to improve your CSS skills
