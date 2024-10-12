@@ -29,7 +29,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 ![image](https://github.com/user-attachments/assets/344bddee-16c3-4fc8-a2dd-92c11a8b4f4a)
 
-- [#1 Simply Square](./Monthly%20Targets/Battle-01-PilotBattle/01-SimplySquare.html) | [=> link](https://cssbattle.dev/play/1)
+- [#1 Simply Square](Monthly%20Targets/Battle-01-PilotBattle/) | [=> link](https://cssbattle.dev/play/1)
 
 # Battle No. 2 - Visibility
 
