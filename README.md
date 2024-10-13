@@ -41,7 +41,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 # Battle No. 2 - Visibility
 ![image](https://github.com/user-attachments/assets/5c7a0574-25b7-477c-b393-1e61327b8850)
-- [#13 Totally Triangle](./Monthly%20Targets/Battle-03-Visibility/13-TotallyTriangle.html) | [=> link](https://cssbattle.dev/play/13)
+- [#13 Totally Triangle](./Monthly%20Targets/Battle-02-Visibility/13-TotallyTriangle.html) | [=> link](https://cssbattle.dev/play/13)
 
 # Battle No. 3 - Cursor
 ![image](https://github.com/user-attachments/assets/a194fb72-ea95-447a-92f2-3dfd8b4d5bf4)
