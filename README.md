@@ -55,6 +55,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 # Battle No. 6 - Conic
 ![image](https://github.com/user-attachments/assets/c227392d-478b-44ba-af76-f25aac5d6488)
+- [#31 Equals](./Monthly%20Targets/Battle-06-Conic/31-Equals.html) | [=> link](https://cssbattle.dev/play/31)
 
 # Battle No. 7 - Backface
 ![image](https://github.com/user-attachments/assets/de631033-efd7-4975-9192-9e53a265da8e)
