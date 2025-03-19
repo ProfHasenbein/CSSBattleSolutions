@@ -1,0 +1,58 @@
+<!-- Monthly Target No.2 - #15 Overlap-->
+
+<!-- 99.9%  -->
+
+<div class="circle-container">
+    <div class="circle circle1"></div>
+    <div class="circle circle2"></div>
+    <div class="overlap"></div>
+</div>
+
+<style>
+  body {
+    margin: 25px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #09042A;
+  }
+
+  .circle-container {
+    position: relative; 
+    width: 200px;
+    height: 200px;
+  }
+
+  .circle {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Macht die divs zu Kreisen */
+  }
+
+  .circle1 {
+    background: #7B3F61; 
+    top: 0;
+    left: -25;
+    z-index: 1;
+  }
+
+  .circle2 {
+    background: #E78481;
+    left: 75; 
+    z-index: 1;
+  }
+
+  .overlap {
+    position: absolute;
+    top: 35px;
+    left: 59px;
+    width: 81px;
+    height: 81px;
+    background-color: #09042A; 
+    border-radius: 100% 0px; 
+    rotate: -45deg;
+    z-index: 2; 
+  }
+</style>
