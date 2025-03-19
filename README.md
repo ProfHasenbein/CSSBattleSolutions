@@ -42,6 +42,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 # Battle No. 2 - Visibility
 ![image](https://github.com/user-attachments/assets/5c7a0574-25b7-477c-b393-1e61327b8850)
 - [#13 Totally Triangle](./Monthly%20Targets/Battle-02-Visibility/13-TotallyTriangle.html) | [=> link](https://cssbattle.dev/play/13)
+- [#15 Overlap](./Monthly%20Targets/Battle-02-Visibility/15-Overlap.html) | [=> link](https://cssbattle.dev/play/15)
 
 # Battle No. 3 - Cursor
 ![image](https://github.com/user-attachments/assets/a194fb72-ea95-447a-92f2-3dfd8b4d5bf4)
@@ -52,6 +53,8 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 # Battle No. 5 - Inline
 ![image](https://github.com/user-attachments/assets/a4ca6e22-44ca-4b34-83a3-bb2c78f5f9c5)
+- [#29 Suffocate](./Monthly%20Targets/Battle-05-Inline/29-Inline.html) | [=> link](https://cssbattle.dev/play/29)
+- [#30 Horizon](./Monthly%20Targets/Battle-05-Inline/30 Horizon.html) | [=> link](https://cssbattle.dev/play/30)
 
 # Battle No. 6 - Conic
 ![image](https://github.com/user-attachments/assets/c227392d-478b-44ba-af76-f25aac5d6488)
