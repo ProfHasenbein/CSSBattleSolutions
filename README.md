@@ -54,7 +54,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 # Battle No. 5 - Inline
 ![image](https://github.com/user-attachments/assets/a4ca6e22-44ca-4b34-83a3-bb2c78f5f9c5)
 - [#29 Suffocate](./Monthly%20Targets/Battle-05-Inline/29-Inline.html) | [=> link](https://cssbattle.dev/play/29)
-- [#30 Horizon](./Monthly%20Targets/Battle-05-Inline/30 Horizon.html) | [=> link](https://cssbattle.dev/play/30)
+- [#30 Horizon](./Monthly%20Targets/Battle-05-Inline/30-Horizon.html) | [=> link](https://cssbattle.dev/play/30)
 
 # Battle No. 6 - Conic
 ![image](https://github.com/user-attachments/assets/c227392d-478b-44ba-af76-f25aac5d6488)
