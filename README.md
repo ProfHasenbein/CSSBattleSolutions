@@ -42,7 +42,10 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 # Battle No. 2 - Visibility
 ![image](https://github.com/user-attachments/assets/5c7a0574-25b7-477c-b393-1e61327b8850)
 - [#13 Totally Triangle](./Monthly%20Targets/Battle-02-Visibility/13-TotallyTriangle.html) | [=> link](https://cssbattle.dev/play/13)
+- [#14 Web Maker Logo](./Monthly%20Targets/Battle-02-Visibility/14-WebMakerLogo.html) | [=> link](https://cssbattle.dev/play/14)
 - [#15 Overlap](./Monthly%20Targets/Battle-02-Visibility/15-Overlap.html) | [=> link](https://cssbattle.dev/play/15)
+- [#16 Eye of the Tiger](./Monthly%20Targets/Battle-02-Visibility/16-EyeOfTheTiger.html) | [=> link](https://cssbattle.dev/play/16)
+- [#18 Matrix](./Monthly%20Targets/Battle-02-Visibility/18-Matrix.html) | [=> link](https://cssbattle.dev/play/18)
 
 # Battle No. 3 - Cursor
 ![image](https://github.com/user-attachments/assets/a194fb72-ea95-447a-92f2-3dfd8b4d5bf4)
@@ -59,10 +62,15 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 # Battle No. 6 - Conic
 ![image](https://github.com/user-attachments/assets/c227392d-478b-44ba-af76-f25aac5d6488)
 - [#31 Equals](./Monthly%20Targets/Battle-06-Conic/31-Equals.html) | [=> link](https://cssbattle.dev/play/31)
+- [#32 Band-aid](./Monthly%20Targets/Battle-06-Conic/32-Band-aid.html) | [=> link](https://cssbattle.dev/play/32)
 
 # Battle No. 7 - Backface
 ![image](https://github.com/user-attachments/assets/de631033-efd7-4975-9192-9e53a265da8e)
+- [#34 ChristmasTree](./Monthly%20Targets/Battle-07-Backface/34-ChristmasTree.html) | [=> link](https://cssbattle.dev/play/34)
+- [#35 Ice Cream](./Monthly%20Targets/Battle-07-Backface/35-IceCream.html) | [=> link](https://cssbattle.dev/play/35)
+- [#36 Interleaved](./Monthly%20Targets/Battle-07-Backface/36-Interleaved.html) | [=> link](https://cssbattle.dev/play/36)
 - [#37 Tunnel](./Monthly%20Targets/Battle-07-Backface/37-Tunnel.html) | [=> link](https://cssbattle.dev/play/37)
+- [#40 Letter B](./Monthly%20Targets/Battle-07-Backface/40-LetterB.html) | [=> link](https://cssbattle.dev/play/40)
 
 # Battle No. 8 - Transition
 ![image](https://github.com/user-attachments/assets/bfa067e6-18d5-4423-96ca-34e25bd1315f)
