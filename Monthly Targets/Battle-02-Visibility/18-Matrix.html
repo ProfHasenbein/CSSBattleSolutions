@@ -1,0 +1,43 @@
+<!-- Monthly Target No.2 - #18 Matrix-->
+
+<!-- 100%  -->
+
+<div><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div>
+<style>
+body {
+  background-color: #5C434C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+div{
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+p {
+  height: 80px;
+  margin: 10px;
+  width: 80px;
+  overflow: hidden;
+  position: relative;
+}
+
+p:before {
+  width: 160px;
+  height: 160px;
+  content: "";
+  border-radius: 50%;
+  background: #F09462;
+  position: absolute;
+}
+
+p:nth-child(2n):before {
+  background: #F5D6B4;
+}
+</style>
