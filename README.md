@@ -52,7 +52,9 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 # Battle No. 4 - Display
 ![image](https://github.com/user-attachments/assets/b1b809dc-e39e-455a-996d-b09e2a05ebda)
+- [#24 Switches](./Monthly%20Targets/Battle-04-Display/24-Switches.html) | [=> link](https://cssbattle.dev/play/24)
 - [#26 Smiley](./Monthly%20Targets/Battle-04-Display/26-Smiley.html) | [=> link](https://cssbattle.dev/play/26)
+- [#27 Lock Up](./Monthly%20Targets/Battle-04-Display/27-LockUp.html) | [=> link](https://cssbattle.dev/play/27)
 
 # Battle No. 5 - Inline
 ![image](https://github.com/user-attachments/assets/a4ca6e22-44ca-4b34-83a3-bb2c78f5f9c5)
