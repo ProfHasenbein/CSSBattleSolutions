@@ -5,18 +5,22 @@
 ```
 ---
 
-## Introduction
-[CSS Battle](https://cssbattle.dev/) is an online game where you compete to write the shortest possible CSS code to replicate given target designs - It's a fun way to improve your CSS skills
+# 📖 Introduction
+[CSS Battle](https://cssbattle.dev/) is an online game where you compete to write the shortest possible CSS code to replicate given target designs - It's a fun way to improve your CSS skills.
 
-Here I provide my solutions to various CSS Battle challenges
+💡In this repository, I provide my solutions to various CSS Battle challenges.
 
-**_*Important*_**: I do not focus on as few characters as possible but rather on a high match score and readability
+---
 
-Please note that I currently do not have premium access to CSS Battle, which limits my ability to complete all the [daily targets](./Daily%20Targets/). However, I regularly update this repository with the challenges I can access
+❗***Important***: I do not focus on as few characters as possible but rather on a high match score and readability.
+
+Please note that I currently do not have premium access to CSS Battle, which limits my ability to complete all the [daily targets](./Daily%20Targets/). However, I regularly update this repository with the challenges I can access.
 
 Feel free to explore, learn, and improve your own CSS skills by checking out my solutions :D !
 
-## Table of Contents
+---
+
+# 🧭Table of Contents
 
 - [Introduction](#introduction)
 - [Battle No. 1 - Pilot Battle](#battle-no-1---pilot-battle)
@@ -52,6 +56,8 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 
 # Battle No. 4 - Display
 ![image](https://github.com/user-attachments/assets/b1b809dc-e39e-455a-996d-b09e2a05ebda)
+- [#21 SitePoint Logo](./Monthly%20Targets/Battle-04-Display/21-SitePointLogo.html) | [=> link](https://cssbattle.dev/play/21)
+- [#22 Cloud](./Monthly%20Targets/Battle-04-Display/22-Cloud.html) | [=> link](https://cssbattle.dev/play/22)
 - [#24 Switches](./Monthly%20Targets/Battle-04-Display/24-Switches.html) | [=> link](https://cssbattle.dev/play/24)
 - [#26 Smiley](./Monthly%20Targets/Battle-04-Display/26-Smiley.html) | [=> link](https://cssbattle.dev/play/26)
 - [#27 Lock Up](./Monthly%20Targets/Battle-04-Display/27-LockUp.html) | [=> link](https://cssbattle.dev/play/27)
