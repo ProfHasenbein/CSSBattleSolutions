@@ -1,0 +1,36 @@
+<!-- Monthly Target No.4 - #28 Cups & Balls -->
+<!-- https://github.com/ngekoding/cssbattle/blob/master/solutions/4-display/28-cups-&-balls.md -->
+
+<!--  100%  -->
+
+<div class="a"></div>
+<div class="b c"></div>
+<div class="b"></div>
+<div class="a c"></div>
+<div class="b d c"></div>
+<div class="a"></div>
+<div class="a c"></div>
+<div class="b d"></div>
+<style>
+  body {
+    background: #1A4341;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: auto auto;
+    grid-gap: 20px;
+    margin: 0;
+    padding: 90px 70px;
+  }
+  .a, .b {
+    width: 50px;
+    height: 50px;
+    background: #998235;
+    border-radius: 50%;
+  }
+  .b {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  .c { background: #F3AC3C }
+  .d { transform: scaleY(-1) }
+</style>
