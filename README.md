@@ -61,6 +61,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 - [#24 Switches](./Monthly%20Targets/Battle-04-Display/24-Switches.html) | [=> link](https://cssbattle.dev/play/24)
 - [#26 Smiley](./Monthly%20Targets/Battle-04-Display/26-Smiley.html) | [=> link](https://cssbattle.dev/play/26)
 - [#27 Lock Up](./Monthly%20Targets/Battle-04-Display/27-LockUp.html) | [=> link](https://cssbattle.dev/play/27)
+- [#28 Cups & Balls](./Monthly%20Targets/Battle-04-Display/28-CupsAndBalls.html) | [=> link](https://cssbattle.dev/play/28)
 
 # Battle No. 5 - Inline
 ![image](https://github.com/user-attachments/assets/a4ca6e22-44ca-4b34-83a3-bb2c78f5f9c5)
@@ -79,6 +80,7 @@ Feel free to explore, learn, and improve your own CSS skills by checking out my 
 - [#36 Interleaved](./Monthly%20Targets/Battle-07-Backface/36-Interleaved.html) | [=> link](https://cssbattle.dev/play/36)
 - [#37 Tunnel](./Monthly%20Targets/Battle-07-Backface/37-Tunnel.html) | [=> link](https://cssbattle.dev/play/37)
 - [#40 Letter B](./Monthly%20Targets/Battle-07-Backface/40-LetterB.html) | [=> link](https://cssbattle.dev/play/40)
+- [#41 Fox Head](./Monthly%20Targets/Battle-07-Backface/41-FoxHead.html) | [=> link](https://cssbattle.dev/play/41)
 
 # Battle No. 8 - Transition
 ![image](https://github.com/user-attachments/assets/bfa067e6-18d5-4423-96ca-34e25bd1315f)
